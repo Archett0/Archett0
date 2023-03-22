@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Archett0
-- 👀 I’m interested in Blue Archive
-- 🌱 I’m currently learning ASP.NET
-- 📫 How to reach me: feel free to DM me on Discord: ヒフミ#2275
+- 👀 I’m interested in Linux Kernal & Web Security
+- 🌱 I’m currently learning eBPF
+- 📫 How to reach me: 
+  - DM me on Discord: Kis4ki_chan#2275
 
 <!---
 Archett0/Archett0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

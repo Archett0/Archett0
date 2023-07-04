@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Archett0
-- 👀 I’m interested in Linux Kernal & Web Security
+- 👀 I’m interested in Linux kernel & Web Security
 - 🌱 I’m currently learning eBPF
 - 📫 How to reach me: 
   - DM me on Discord: Kis4ki_chan#2275
